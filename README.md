@@ -2,7 +2,7 @@
 👀 I’m interested in data analysis, machine learning, and turning raw data into actionable insights.
 🌱 I’m currently learning Tableau, SQL, PowerBI,Excel and other data visualization techniques.
 💞️ I’m looking to collaborate on data analysis projects, open-source data analyst tools, and PowerBI dashboards.
-📫 How to reach me: @ky060682@gmail.com
+📫 How to reach me: @yabhishek1308@gmail.com
 ⚡ Fun fact: I love solving puzzles and applying that problem-solving mindset to data challenges
 
 <!---
